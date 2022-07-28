@@ -1,7 +1,7 @@
 # Личный проект «Седона» 
 
-* Студент: [наталия белоусова](https://up.htmlacademy.ru/adaptive/26/user/1930947).
-* Наставник: `Неизвестно`.
+* Студент: [Наталия Белоусова](https://up.htmlacademy.ru/adaptive/26/user/1930947).
+* Наставник: [Alex Elkin](https://htmlacademy.ru/profile/id604209).
 
 ---
 
